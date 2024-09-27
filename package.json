@@ -1,5 +1,5 @@
 {
-  "name": "ui-pack",
+  "name": "@nishanthan-k/ui-pack",
   "version": "1.0.0",
   "description": "ui-pack",
   "main": "src/index.ts",
