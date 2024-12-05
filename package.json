@@ -1,6 +1,6 @@
 {
   "name": "@nishanthan-k/ui-pack",
-  "version": "2.0",
+  "version": "2.0.0",
   "description": "ui-pack",
   "main": "src/index.ts",
   "scripts": {
