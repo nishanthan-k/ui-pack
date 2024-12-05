@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Source directory in the ui-pack package
-const srcDir = path.join(__dirname, '../app/src/ui');
+const srcDir = path.join(__dirname, '../src/ui');
 
 // Function to recursively copy files
 function copyFiles(src, dest) {

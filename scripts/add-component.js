@@ -12,7 +12,7 @@ if (!componentName) {
 }
 
 // Source directory in the ui-pack package
-const srcDir = path.join(__dirname, '../app/src/ui');
+const srcDir = path.join(__dirname, '../src/ui');
 
 // Determine if the project is using React or Next.js
 function getProjectType() {
